@@ -2,7 +2,7 @@
 
 This is my solution to a clustering problem formulated as part of the Algorithmic Thinking course, which was organised by Rice University's Department of Computer Science.
 
-Here, I implement the Slow_Closest_Pair, Fast_Closest_Pair and Closest_Pair_Strip algorithms to calculate the closest pair of clusters/points in a list. I then implement the Hierarchial_Clustering and Kmeans_Clustering algorithms to arrive at a specified number of clusters from a given list of points.
+Here, I implement the Slow_Closest_Pair, Fast_Closest_Pair (which employs a binary search) and Closest_Pair_Strip algorithms to calculate the closest pair of clusters/points in a list. I then implement the Hierarchial_Clustering and Kmeans_Clustering algorithms to arrive at a specified number of clusters from a given list of points.
 
 My work thus far is mirrored in clusalg_implement_mirror.py, and due to the highly specific nature of the modules imported, can only run in CodeSkulptor (a browser-based IDE also created by the Rice University Department of Computer Science) - you can access it at https://py2.codeskulptor.org/#user48_f7BRIhoAqU_53.py.
 
